@@ -9,7 +9,7 @@
  
  
  WARNING:
- It is assumed the packages are located in 2 provided directories of currenr directory
+ It is assumed the packages are located in 2 provided subdirectories of current directory
  "
  exit
  fi
