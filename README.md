@@ -9,8 +9,8 @@
 4) script should be invoked with two parameters which are the subdirectories where the packages are located.
 
 == Compare installed software to package content ==
-1) Script 2 comapres the content of rpm with already installes software.  
-2)As for script above parameters are 2 directories, however
+  1) Script 2 comapres the content of rpm with already installes software.
+  2)As for script above parameters are 2 directories, however
 It is assumed:
 directory_nr1 is the directory of current instalation
 directory_nr2 is the directory where package is dowloaded
