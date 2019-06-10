@@ -13,7 +13,7 @@ Script cmprpm.sh
 Script cmprpmsf.sh
 
 1) Script 2 comapres the content of rpm with already installes software.  
-2)As for script above parameters are 2 directories, however
+As for script above parameters are 2 directories, however
 It is assumed:
 directory_nr1 is the directory of current instalation
 directory_nr2 is the directory where package is dowloaded  
