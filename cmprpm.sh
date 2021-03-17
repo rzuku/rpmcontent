@@ -43,4 +43,3 @@
  join -a 2 package1.txt package2.txt >allfromdir2.txt
  comm -12 allfromdir1.txt allfromdir2.txt >presentinboth.txt
  comm -3 allfromdir1.txt allfromdir2.txt >notpresentinboth.txt
-
